@@ -1,0 +1,32 @@
+Significant Program Proposal
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+The title of my program is going to be master money because it's going to overview a business idea that I have as well as show me my finances an How
+that will all work out.
+
+2. What real world problem will your program address or help to solve?
+It will not only help me budget but it will alsp help my business make decisions about how much product we need to order and how much we think we can make
+
+3. What will you learn from developing this program?
+I think how to make a complex program fill my needs, but also how to make a program aid me in a real world problem. There will be a lot of math and
+reporting needed
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+datetime, csv or pandas (to record data), pytest for testing functions, and probably math/.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+yes. I also will use nested functions in some situations
+
+6. Will you write test functions to test many of your program functions?
+yes, espcially the math functions and the functions that will record data to make sure that everything is getting reocored properly.
